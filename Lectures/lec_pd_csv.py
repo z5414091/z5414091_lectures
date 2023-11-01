@@ -5,8 +5,6 @@ Companion codes for the lecture on reading and writing CSV files with Pandas
 
 import os
 
-import pandas as pd
-
 import toolkit_config as cfg
 
 QAN_PRC_CSV = os.path.join(cfg.DATADIR, 'qan_prc_2020.csv')
